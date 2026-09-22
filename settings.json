@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "bruknowSMP.aternos.me",
+    "port": 26587,
     "version": "",
     "try-creative": false
   },
